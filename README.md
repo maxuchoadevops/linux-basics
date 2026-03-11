@@ -1,1 +1,1 @@
-# linux-basics
+Basic Linux commands and administration notes
